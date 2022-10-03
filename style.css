@@ -22,11 +22,19 @@ p {
 h2 {
     text-align: center;
 }
+
 .beneficios {
     background-color:hotpink;
 }
 
-#cowgirl2 {
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin: right: 15%;
+    width: 20%;
+}
+
+#cowgirl {
     width: 50%
 }
 
