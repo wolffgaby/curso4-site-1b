@@ -18,3 +18,12 @@ p {
 .itens {
     font-style: italic;
 }
+
+h2 {
+    text-align: center;
+}
+.beneficios {
+    background-color: aliceblue;
+}
+
+    
