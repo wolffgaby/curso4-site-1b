@@ -2,6 +2,13 @@ header{
     background: black;
 }
 
+.caixa-nave{
+    position: relative;
+    width:98px;
+    margin: 0 auto
+
+}
+
 h1{
     display: inline;
 }
