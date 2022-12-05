@@ -49,9 +49,9 @@ nav a {
     display: inline-block;
     text-align: center;
     margin:0 10px;
-    border-color: aquamarine;
+    border-color: black;
     border-width: 5px;
-    border-style:solid;
+    border-style:dotted;
     border-radius: 15px;
 }
 
