@@ -20,8 +20,8 @@ h1{
 nav {
     display: inline-block;
     position: absolute;
-    right: 30px;
-    top: 110px;
+    right: -200px;
+    top: 150px;
 }
 
 nav li {
