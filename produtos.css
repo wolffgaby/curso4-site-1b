@@ -40,8 +40,9 @@ nav a {
 }
 
 .produtos {
-    width: 1058px;
+    width: 1150px;
     margin: 0 auto;
+    padding: 50px; ;
 }
 
 .produtos li {
