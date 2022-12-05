@@ -62,3 +62,8 @@ nav a {
     font-weight: bold;
     margin-bottom: 20px;
 }
+
+.produtos li p{
+    font-size: 20px;
+    margin-top: 10px;
+}
